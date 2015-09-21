@@ -1,0 +1,6 @@
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\bin\Debug\ReversiConsoleApp.exe.config
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\bin\Debug\ReversiConsoleApp.exe
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\bin\Debug\ReversiConsoleApp.pdb
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\obj\Debug\ReversiConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\obj\Debug\ReversiConsoleApp.exe
+c:\users\hunter97\documents\visual studio 2015\Projects\ReversiConsoleApp\ReversiConsoleApp\obj\Debug\ReversiConsoleApp.pdb
